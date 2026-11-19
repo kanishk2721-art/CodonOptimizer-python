@@ -4,7 +4,8 @@ A browser-based codon optimization demonstrator built with **Python** and **Stre
 
 ## Live app
 
-[Open CodonOptimizer](https://codonoptimizer-python-dj7wxecjjfwupdjqgre8xn.streamlit.app/)
+Live App:
+https://codonoptimizer-python-dj7wxecjjfwupdjqgre8xn.streamlit.app/
 
 ## Features
 
