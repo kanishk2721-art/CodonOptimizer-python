@@ -2,6 +2,10 @@
 
 A browser-based codon optimization demonstrator built with **Python** and **Streamlit**.
 
+## Live app
+
+[Open CodonOptimizer](https://codonoptimizer-python-dj7wxecjjfwupdjqgre8xn.streamlit.app/)
+
 ## Features
 
 - Paste a coding DNA sequence or a single FASTA record
@@ -19,7 +23,7 @@ Python 3.9 or newer is recommended.
 ```bash
 python -m venv .venv
 # Windows:
-.venv\Scripts\activate
+.venv\\Scripts\\activate
 # macOS/Linux:
 source .venv/bin/activate
 
